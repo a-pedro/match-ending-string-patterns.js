@@ -1,0 +1,1 @@
+# match-ending-string-patterns.js
